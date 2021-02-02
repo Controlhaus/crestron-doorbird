@@ -6,7 +6,9 @@ SPlsWork
 *.hash
 *.sgd2
 *.sm2
-.vtz
+*.um2
+*.sig
+*.vtz
 !graphics/*.Core3/*.zip
 *CrosspointList.txt
 /Program/SPlsWork
